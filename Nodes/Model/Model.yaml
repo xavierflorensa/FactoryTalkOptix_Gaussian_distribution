@@ -1,0 +1,6 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Gaussian
+  Type: BaseDataVariableType
+  DataType: Int32
